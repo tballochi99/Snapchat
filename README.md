@@ -30,7 +30,7 @@ L'objectif était de recréer un Snapchat "simplifié" en utilisant une API inte
 
 Pour installer et utiliser Snapchat :
 
-1. Clonez ce dépôt : `git clone git@github.com:Projects-Lucas-EMILE/snapchat.git`
+1. Clonez ce dépôt : `git clone git@github.com:tballochi99/snapchat.git`
 2. Naviguez vers le répertoire du projet : `cd snapchat`
 3. Installez les dépendances : `npm install`
 
